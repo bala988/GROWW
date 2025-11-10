@@ -75,4 +75,7 @@ else:
     print(f"Data saved successfully to: {filename}")
 
 # === Close connection ===
-conn.close()
+conn.close()  
+
+
+### Testing Note #### To test this script, replace <your_token_here> with a valid Palo Alto SASE API
