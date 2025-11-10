@@ -79,3 +79,5 @@ conn.close()
 
 
 ### Testing Note #### To test this script, replace <your_token_here> with a valid Palo Alto SASE API
+
+## Testing Instructions:
